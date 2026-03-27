@@ -1,5 +1,9 @@
-* {
+body {
     font-family: Helvetica, sans-serif;
+    background-color: #ffebeb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 header > h4 { display: inline-block; }
@@ -16,8 +20,6 @@ header > h4 { display: inline-block; }
 .degrees h4{
     margin: 0;
 }
-
-
 
 /* Add a black background color to the top navigation */
 .topnav {
