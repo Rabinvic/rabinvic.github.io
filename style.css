@@ -12,9 +12,7 @@ header > h4 { display: inline-block; }
 .degrees {
     margin:0;
     padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+
 }
 
 .degrees h4{
