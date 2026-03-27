@@ -45,3 +45,9 @@ header > h4 { display: inline-block; }
     background-color: #3142ff;
     color: white;
   }
+
+  /* Center the navigation bar */
+  .topnav {
+    display: flex;
+    justify-content: center;
+  }
